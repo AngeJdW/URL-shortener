@@ -1,0 +1,15 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "url-shortener"
+  },
+  "keywords": [],
+  "author": "Ange Johnson de Wet - angejohnson@gmail.com",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "url-shortener": "^0.2.6"
+  }
+}
